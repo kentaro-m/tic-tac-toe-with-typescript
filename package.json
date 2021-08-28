@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kentaro-m",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  }
+}
